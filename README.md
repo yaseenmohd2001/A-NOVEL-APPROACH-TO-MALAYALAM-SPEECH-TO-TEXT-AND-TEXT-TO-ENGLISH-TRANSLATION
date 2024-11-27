@@ -1,0 +1,2 @@
+# A-NOVEL-APPROACH-TO-MALAYALAM-SPEECH-TO-TEXT-AND-TEXT-TO-ENGLISH-TRANSLATION
+ This research introduces a system that converts spoken and written Malayalam to English using ASR and NMT models. It accurately transcribes Malayalam speech into text and translates it to English, preserving context and meaning. The user-friendly interface makes it suitable for applications in education, commerce, and governance.
